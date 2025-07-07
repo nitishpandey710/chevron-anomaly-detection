@@ -24,7 +24,7 @@ This project simulates a real-world use case of detecting sensor anomalies in oi
 
 ---
 
-## 🚀 How to Run
+## How to Run
 
 Install requirements
 pip install -r requirements.txt
