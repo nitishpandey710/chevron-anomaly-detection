@@ -1,0 +1,8 @@
+pandas
+numpy
+Streamlit
+ipykernel
+scikit-learn
+sentence-transformers
+openai
+langchain_openai
